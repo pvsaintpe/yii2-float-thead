@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "bluezed/yii2-floatThead": "v1.0.9"
+        "bluezed/yii2-float-thead": "v1.0.9"
     },
     "autoload": {
         "psr-4": {
