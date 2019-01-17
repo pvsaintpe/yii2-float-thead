@@ -1,0 +1,25 @@
+{
+    "name": "pvsaintpe/yii2-float-thead",
+    "description": "This is a Yii 2 wrapper for jquery.floatThead a floating/locked/sticky/fixed table header plugin that requires no special CSS and supports window and overflow scrolling.",
+    "keywords": ["yii2", "extension", "floatthead", "float", "table", "header", "thead"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/pvsaintpe/yii2-float-thead/issues",
+        "source": "https://github.com/pvsaintpe/yii2-float-thead"
+    },
+    "authors": [
+        {
+            "name": "Pavel Veselov",
+            "email": "pvsaintpe@icloud.com"
+        }
+    ],
+    "require": {
+        "pvsaintpe/floatthead": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pvsaintpe\\floatthead\\": "",
+        }
+    }
+}
