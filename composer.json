@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "pvsaintpe/floatthead": "*"
+        "bluezed/yii2-floatThead": "*"
     },
     "autoload": {
         "psr-4": {
